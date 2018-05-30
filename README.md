@@ -8,7 +8,7 @@ This module contains various methods that are generally used for organizing and 
 
 ## Usage
 This module has to be downloaded before using the utility functions.
-Note: Still working on developing this package.
+Note: Still working on developing this package, and most of the code is taken from tutorials of caffe2.
 
 Below are the utility functions supported currently:
 
